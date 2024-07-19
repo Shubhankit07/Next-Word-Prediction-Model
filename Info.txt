@@ -1,0 +1,4 @@
+number of words that read from file: 10000618
+number of articles: 14441
+number of tokens: 11468564
+
